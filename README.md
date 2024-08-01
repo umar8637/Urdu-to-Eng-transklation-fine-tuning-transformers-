@@ -1,4 +1,4 @@
-# Urdu to English Machine Translation
+# Urdu to English Machine Translation (Fine-tuning transformer)
 
 This project demonstrates a machine translation system that translates Urdu text into English using the Hugging Face `transformers` library.
 
